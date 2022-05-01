@@ -1,0 +1,2 @@
+C:\Users\Zero\Desktop\PassGen\x64\Debug\PassGen.exe
+C:\Users\user\Desktop\PassGen\x64\Debug\PassGen.exe

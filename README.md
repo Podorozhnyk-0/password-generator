@@ -2,13 +2,13 @@
 Program that generates a password
 
 It has these parameters:
-Length
-Minimum Digits Count
-Maximum Digits Count
-Minimum Underlines Count
-Maximum Underlines Count
-Minimum Caps Letters Count
-Maximum Caps Letters Count
+Length,
+Minimum Digits Count,
+Maximum Digits Count,
+Minimum Underlines Count,
+Maximum Underlines Count,
+Minimum Caps Letters Count,
+Maximum Caps Letters Count.
 
 Standart symbol: lower letter
 

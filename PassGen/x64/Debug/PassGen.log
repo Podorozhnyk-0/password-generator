@@ -1,5 +1,0 @@
-﻿  main.cpp
-C:\Users\Zero\Desktop\PassGen\main.cpp(32,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  PasswordGenerator.cpp
-  Создание кода...
-  PassGen.vcxproj -> C:\Users\Zero\Desktop\PassGen\x64\Debug\PassGen.exe
